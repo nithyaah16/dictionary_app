@@ -2,7 +2,7 @@
 
 ## What does the app do?
 
-This is a simple dictionary app which gets a word from the user and gives back the definition
+This is a simple dictionary app which gets a word from the user and gives back the definition.
 
 If the word has a typo or if the word does not exist instead of showing error, the dictionary tries to guess the word by getting close matches of the word entered.
 
