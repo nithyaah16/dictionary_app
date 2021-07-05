@@ -1,4 +1,4 @@
-# dictionary_app
+# DICTIONARY APP
 
 ## What does the app do?
 
